@@ -1,5 +1,5 @@
 [project]
-name = "open-server"
+name = "open-mcp-server"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -13,4 +13,4 @@ dependencies = [
 
 
 [project.scripts]
-open-server = "open_server:main"
+open-mcp-server = "open_server:main"
