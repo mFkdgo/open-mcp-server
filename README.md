@@ -1,3 +1,4 @@
+<import src="https://raw.githubusercontent.com/openmcp/openmcp/master/docs/openmcp-deploy.md"/>
 
 ###json config
 
