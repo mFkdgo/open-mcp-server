@@ -7,11 +7,12 @@
           "open-mcp-server"
         ],
 		"env": {
-				"API_KEY": "ntCtwnQEU7KV",
-				"SECRET_KEY": "wrlXq5JXNlHq",
+				"API_KEY": "",
+				"SECRET_KEY": "",
 				"VERSION": "1.0",
-				"ENV_URL": "http://testyqt.easysign.cn:8028/APIService"
+				"ENV_URL": ""
 			}
       }
   }
 }
+
